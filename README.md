@@ -20,6 +20,17 @@ Beyond numerical predictions, AgriSight offers intelligent farming insights powe
 AgriBot – AI Chat Assistant
 The platform also includes a virtual AgriBot, integrated via Botpress. It is embedded as an HTML widget inside the app and serves as a 24/7 conversational agent. Farmers can use AgriBot to ask queries in simple language, get fertilizer recommendations, or understand best practices in real time. This chatbot experience is particularly valuable for users who prefer natural interaction over forms or buttons.
 
+## 🧠 Technologies Used
+
+- **Python 3.8+**
+- **Streamlit** – UI framework for dashboards
+- **scikit-learn** – ML model development
+- **Pandas / NumPy** – Data processing
+- **OpenAI API** – For LLM-based advisories
+- **Joblib** – Model serialization
+- **dotenv** – For environment variable management
+- **Botpress** – For AgriBot – AI Chat Assistant
+- 
 Setup and Deployment
 The application uses a .env file to manage secrets such as the WeatherAPI key and OpenAI key. Trained models are loaded from the /models directory, and all code is modularized into llm/, models/, and app/ folders. With the included Python scripts and requirements, users can deploy the app locally or on cloud platforms like Streamlit Sharing or Heroku.
 
