@@ -1,6 +1,8 @@
 # AgriSight-AI-Powered-Crop-Recommender-Risk-Forecaster-Virtual-AgriBot
 AgriSight is an AI-powered farming assistant that recommends crops, predicts success, shows live weather, and offers smart tips. It features a chatbot for instant farming help. Built with Botpress, it helps UP farmers make smart, data-driven decisions.
 
+Live Link : https://huggingface.co/spaces/Sachin0728/AgriSight
+
 AgriSight is an intelligent, full-stack agricultural decision-support web app built with Streamlit and Python, designed specifically to empower farmers in regions like Uttar Pradesh, India. The system integrates machine learning for crop recommendation and farming risk forecasting, live weather forecasting via WeatherAPI, and a conversational assistant powered by Botpress and LLMs to provide real-time farming guidance.
 
 Project Overview
